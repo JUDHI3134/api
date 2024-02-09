@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "title" : "web Development",
+        "image" : "https://blog.hubspot.com/hs-fs/hubfs/web-development.webp?width=595&height=400&name=web-development.webp",
+        "description" : "Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the"
+    },
+    {
+        "id" : 2,
+        "title" : "App Development",
+        "image" : "https://riseuplabs.com/wp-content/uploads/2021/07/mobile-application-development-guidelines-riseuplabs.jpg",
+        "description" : " and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the"
+    },
+    {
+        "id" : 3,
+        "title" : "full stack Development",
+        "image" : "https://miro.medium.com/v2/resize:fit:1400/0*cl7fc6pt1MHjIF4K.png",
+        "description" : " India has been a federal republic since 1950, governed through a democratic parliamentary system. It is a pluralistic, multilingual and multi-ethnic society. India's population grew from 361 million in 1951 to almost 1.4 billion in 2022.[62] During the same time, its nominal per capita income increased from US$64 annually"
+    }
+]
